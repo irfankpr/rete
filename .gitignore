@@ -1,0 +1,25 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Django
+*.log
+*.pot
+*.pyc
+local_settings.py
+db.sqlite3
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# Virtual environment
+venv/
+env/
+
+# Django REST Framework
+*.swagger.json
+*.har
